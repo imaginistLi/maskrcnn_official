@@ -1,0 +1,5 @@
+torch==1.2.0
+torchvision==0.4.0a0+9232c4a
+numpy==1.18.5
+pycocotools==2.0
+Pillow==7.2.0
